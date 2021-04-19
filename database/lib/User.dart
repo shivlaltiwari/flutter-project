@@ -18,7 +18,7 @@ class User{
     var map = new Map <String, dynamic>();
     map['username']= _colname;
     map['password'] = _colpword;
-    if (id != null){
+    if (id != Null){
       map["id"] = _colid;
      }
     return map;
