@@ -5,6 +5,7 @@ import 'package:flutter/material.dart';
 import 'dart:async';
 import 'dart:io';
 import 'package:path/path.dart';
+import './User.dart';
 class databaseHelper{
 
   static final _dbname= 'mydatabase.db';
