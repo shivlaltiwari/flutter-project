@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "172540263784",
+    "firebase_url": "https://crudoper-31044-default-rtdb.firebaseio.com",
+    "project_id": "crudoper-31044",
+    "storage_bucket": "crudoper-31044.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172540263784:android:40f1cd73f2c5cec1406add",
+        "android_client_info": {
+          "package_name": "com.example.db_opr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172540263784-rrm2tl0u3pc19r80mqrd2e8rvc93fo46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkMCDYE5uzZ7B366Y0HbDcf9xNuGR_E64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172540263784-rrm2tl0u3pc19r80mqrd2e8rvc93fo46.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
